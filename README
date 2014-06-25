@@ -1,1 +1,9 @@
 This is my assignment~!
+
+控制方法:
+方向鍵 - 控制方向
+Space - 控制開火
+Ctrl - 特殊子彈
+
+要Compile的話要link
+-libgcc -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -lwinmm
