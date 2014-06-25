@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 		
 	fclose(fp);
 	
-	initwindow(768,960, "圢騇眳秫");
+	initwindow(768,960, "蒼穹之翼");
     
     main_menu();
     
